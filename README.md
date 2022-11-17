@@ -2,7 +2,7 @@
 <p>I'm a software developer residing in Richmond, BC.</p>
 <ul>
 <li>:briefcase: Currently working as a full stack developer at Semios and previously interned at IBM.</li>
-<li>:heart: Specializes in front-end and full-stack web development.</li>
+<li>:heart: Specializes in front end and full stack web development.</li>
 <li>:mortar_board: Has a Bachelor of Computer Science degree and B.A. degree in Mathematics at the University of British Columbia.</li>
 <li>:climbing_woman: Enjoys bouldering when not coding.</li>
 </ul>
