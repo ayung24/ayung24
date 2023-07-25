@@ -4,7 +4,7 @@
 <li>:briefcase: Currently working as a full stack developer at Semios and previously interned at IBM.</li>
 <li>:heart: Specializes in front end and full stack web development.</li>
 <li>:mortar_board: Has a Bachelor of Computer Science degree and B.A. degree in Mathematics at the University of British Columbia.</li>
-<li>:climbing_woman: Enjoys bouldering when not coding.</li>
+<li>Enjoys playing soccer ⚽ and going to the gym 🏋️‍♀️ when not coding.</li>
 </ul>
 <p>Feel free to send me an email or connect with me on LinkedIn if you want to chat!<p>
 <a href="mailto:ayung.024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
